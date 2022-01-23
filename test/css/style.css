@@ -1,0 +1,44 @@
+body{background-color: rgb(59, 59, 59);
+ font-size:18px;}
+ .container{
+     width:80%;
+      
+    
+ }
+ .box-1{
+     background-color:rgb(187, 9, 9);
+     color:wheat;
+    border: 5px rgb(247, 247, 247) solid;
+    padding:20px;
+ }
+
+ .box- h1{
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-weight:800;
+     font-style:italic;
+     letter-spacing: 0.2em;
+
+ }
+.container- h2{
+    letter-spacing: .01;
+    color:rgb(78, 196, 31);
+}
+.history {
+
+    border: 3px; 
+    border-color:royalblue;
+    border-radius: 1cm;
+    border-style:dashed;
+}
+a{
+    text-decoration:non;
+    color:black;
+}
+a:hover{color:red;}
+ 
+.list{
+    border: 2px solid;
+    padding:10px;
+    text-align:center;
+list-style-type: style none;
+}
